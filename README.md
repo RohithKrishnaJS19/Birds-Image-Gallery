@@ -21,6 +21,6 @@ No frameworks or UI libraries used
 
 This project was built to strengthen HTML structure and basic CSS layout skills by creating a simple real-world image gallery webpage.
 
-You can Visit My web page Here: 
+You can Visit My web page Here:  https://rohithkrishnajs19.github.io/Birds-Image-Gallery/
 
 Thankyou for visiting my page.
